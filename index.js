@@ -10,9 +10,10 @@
  consol.log("Happy holidays ${name}");
  }
  
-  Function happyHolidayTo(holiday,name)
+  
+  Function holidayCountdown(holiday,days)
  {
- consol.log("Happy ${holiday} ${name1}");
+ consol.log("It's ${days} days untill ${holiday}");
  }
  
  
