@@ -20,7 +20,7 @@
   
   Function happyHolidayTo(holiday,name)
  {
- consol.log("It's ${days} days untill ${holiday}");
+ consol.log("Happy ${holiday}, ${name}!");
  }
  
  
