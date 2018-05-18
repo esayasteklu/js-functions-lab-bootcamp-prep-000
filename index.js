@@ -1,3 +1,7 @@
 // write your code below!
  Function happyHolidays()
- consol.log()
+ {
+ consol.log("Happy holidays!");
+ }
+ 
+ 
