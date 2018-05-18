@@ -5,9 +5,9 @@
  }
  
  
- Function happyHolidays()
+ Function happyHolidaysTo(name1)
  {
- consol.log("Happy holidays!");
+ consol.log("Happy holidays ${name1}");
  }
  
  
