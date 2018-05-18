@@ -17,3 +17,10 @@
  }
  
  
+  
+  Function holidayCountdown(holiday,days)
+ {
+ consol.log("It's ${days} days untill ${holiday}");
+ }
+ 
+ 
