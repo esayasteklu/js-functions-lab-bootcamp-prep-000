@@ -23,7 +23,9 @@
   
   function happyHolidayTo(holiday,name)
  {
- return "Happy ${holiday}, ${name}!";
+   name="you";
+   holiday="Independence";
+ return "Happy, ${holiday} day, ${name}!;
  }
  
  
