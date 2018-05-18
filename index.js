@@ -1,24 +1,25 @@
 // write your code below!
- Function happyHolidays()
+ function happyHolidays()
  {
  consol.log("Happy holidays!");
  }
  
  
- Function happyHolidaysTo(name)
+ function happyHolidaysTo(name)
  {
  consol.log("Happy holidays ${name}");
  }
  
   
-  Function holidayCountdown(holiday,days)
+  function holidayCountdown(holiday,days)
  {
  consol.log("It's ${days} days untill ${holiday}");
  }
  
  
+ 
   
-  Function happyHolidayTo(holiday,name)
+  function happyHolidayTo(holiday,name)
  {
  consol.log("Happy ${holiday}, ${name}!");
  }
