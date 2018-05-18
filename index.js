@@ -15,7 +15,7 @@
   
   function holidayCountdown(holiday,days)
  {
- return "It's ${days} days untill ${holiday}";
+ return `It's ${days} days until ${holiday}!`
  }
  
  
