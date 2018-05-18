@@ -18,7 +18,7 @@
  
  
   
-  Function holidayCountdown(holiday,days)
+  Function happyHolidayTo(holiday,name)
  {
  consol.log("It's ${days} days untill ${holiday}");
  }
