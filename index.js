@@ -25,7 +25,7 @@
  {
    name="you";
    holiday="Independence";
- return `Happy,  ${holiday} Day, ${name}!`;
+ return `Happy ${holiday} Day, ${name}!`;
  }
  
  
