@@ -5,9 +5,14 @@
  }
  
  
- Function happyHolidaysTo(name1)
+ Function happyHolidaysTo(name)
  {
- consol.log("Happy holidays ${name1}");
+ consol.log("Happy holidays ${name}");
+ }
+ 
+  Function happyHolidayTo(holiday,name)
+ {
+ consol.log("Happy ${holiday} ${name1}");
  }
  
  
